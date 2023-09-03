@@ -2,11 +2,13 @@
     max-width: 800px;
     margin: 30px auto;
     font-family: Helvetica, sans-serif;
+    background: linear-gradient(90deg, rgb(34, 87, 153) 0%, rgb(102, 155, 221) 100%);
 }
 
 .App h1 {
     text-align: center;
     color: black;
+    text-decoration: underline;
 }
 
 .App footer {
